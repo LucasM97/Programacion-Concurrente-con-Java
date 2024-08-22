@@ -13,4 +13,5 @@ monto ingresado (siempre y cuando haya saldo) y decrementará el saldo de la cue
 Para la “transferencia”, muestre el saldo final de la cuenta.
 * Sobrecargue el método transferir (monto, Alias) de la clase CuentaSueldo para que acepte 
 un alias alfanumérico.
-* [Codigo](TP1-POO/src/main/java/actividad2/CuentaSueldo.java)
+* [CuentaSueldo](TP1-POO/src/main/java/actividad2/CuentaSueldo.java) (codigo)
+* [Demo](TP1-POO/src/main/java/actividad2/Demo.java) (codigo)
