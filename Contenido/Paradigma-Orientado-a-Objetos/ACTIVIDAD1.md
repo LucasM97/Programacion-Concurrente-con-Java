@@ -11,6 +11,7 @@ anual dividido entre 365 aplicado al saldo actual).
 * Método que nos permita mostrar todos los datos de la cuenta.
 * El número de cuenta se asignará de forma correlativa a partir de 100001, asignando el 
 siguiente número al último asignado
-* [CuentaBancaria](TP1-POO/src/main/java/actividad1/CuentaBancaria.java) (codigo)
-* [Demo](TP1-POO/src/main/java/actividad1/Demo.java) (codigo)
+## Código
+* [CuentaBancaria](TP1-POO/src/main/java/actividad1/CuentaBancaria.java) 
+* [Demo](TP1-POO/src/main/java/actividad1/Demo.java) 
   
