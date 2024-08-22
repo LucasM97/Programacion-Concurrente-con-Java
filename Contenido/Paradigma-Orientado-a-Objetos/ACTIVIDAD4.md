@@ -9,4 +9,4 @@ perimetro().
 ## Código
 * [Forma](TP1-POO/src/main/java/actividad4/Forma.java)
 * [Cuadrilatero](TP1-POO/src/main/java/actividad4/Cuadrilatero.java)
-* [Demo](TP1-POO/src/main/java/actividad24/Demo.java)
+* [Demo](TP1-POO/src/main/java/actividad4/Demo.java)
