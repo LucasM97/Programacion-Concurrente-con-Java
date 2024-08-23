@@ -3,3 +3,6 @@
 Realice lo mismo que en el punto 4) pero en lugar de utilizar una clase abstracta Forma, 
 hágalo mediante una interfaz.
 ## Código
+* [Forma](TP1-POO/src/main/java/actividad6/Forma.java)
+* [Cuadrilatero](TP1-POO/src/main/java/actividad6/Cuadrilatero.java)
+* [Demo](TP1-POO/src/main/java/actividad6/Demo.java)
