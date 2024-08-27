@@ -17,7 +17,7 @@ public class Demo {
 
         System.out.println("\n----- Se intenta crear una cuenta con el CBU 987654321987654321");
 
-        actividad3.CuentaSueldo cuenta4 = new actividad3.CuentaSueldo(987654321987654321L);
+        CuentaSueldo cuenta4 = new CuentaSueldo(987654321987654321L);
         System.out.println(cuenta4);
 
         System.out.println("\n----- Se intenta ingresar 10000");
@@ -48,8 +48,8 @@ public class Demo {
 
         cuenta4.trasferir(-1, 987654321123456789L);
 
-        System.out.println("\n----- Se intenta trasferir 6000 al CBU: 987654321123456789");
+        System.out.println("\n----- Se intenta trasferir 6000 al Alias: AAAAAA");
 
-        cuenta4.trasferir(6000, 987654321123456789L);
+        cuenta4.trasferir(6000, "AAAAAA");
     }
 }
