@@ -12,8 +12,8 @@ public class Demo {
 
         System.out.println("\n----- Se intenta crear una cuenta con el CBU 546546");
 
-        //CuentaSueldo cuenta3 = new CuentaSueldo(546546);
-        //System.out.println(cuenta3);
+        CuentaSueldo cuenta3 = new CuentaSueldo(546546);
+        System.out.println(cuenta3);
 
         System.out.println("\n----- Se intenta crear una cuenta con el CBU 987654321987654321");
 
