@@ -5,3 +5,14 @@ Existen 2 procesos concurrentes donde S no puede ejecutar S2 hasta que R haya ej
 pondrías las operaciones wait() y signal()?<br>
 ![A2](img/T2A6.png)
 ## Desarrollo
+### Rutina propuesta
+``` 
+    semaforo s = 0
+
+    R         | S
+    R1        | S1
+    signal(s) | wait(s)
+    R2        | S2
+```
+Con un semáforo es suficiente para controlar la ejecución del código en el orden indicado. 
+La operación wait() se ubica antes de S1 y el signal() despues de R1.
