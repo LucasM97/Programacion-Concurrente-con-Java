@@ -10,8 +10,10 @@ son las siguientes:
 * El coche que va hacia el oeste necesita los cuadrantes 2 y 3
 * El coche que va hacia el sur necesita los cuadrantes 3 y 4
 * El coche que va hacia el este necesita los cuadrantes 4 y 1
-![A2](img/T2A3.png)<br>
+![A3](img/T2A3.png)<br>
 Implemente mediante pseudocódigo una rutina que permita la circulación de los autos y evite 
 el interbloqueo, para ello debe emplear semáforos como mecanismo de sincronización, y debe 
 identificar cada auto por el sentido hacia donde desea ir (N, S, E y O).
 ## Desarrollo
+### Rutina propuesta
+![A3](img/ST2A3.png)
